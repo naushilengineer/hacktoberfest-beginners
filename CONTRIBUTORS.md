@@ -137,3 +137,9 @@
  - Place: Surat, Gujarat, India
  - Bio: Working on Machine learning and computer vision
  - GitHub: [Jenimpatel](https://github.com/Jenimpatel)
+ 
+ Name: [Naushil Engineer](https://github.com/naushilengineer)
+ - Place: Surat, Gujarat, India
+ - Bio: Working on front end web development
+ - GitHub: [naushilengineer](https://github.com/naushilengineer)
+
